@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2pF123VCEKd234EUQOdIiH_4Z9",
+    "name": "Test 123455",
+    "description": "Description 123 Description 123 Description 123 Description 123 Description 123",
+    "imageUrl": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711929600&semt=ais",
+    "kcal": 100,
+    "protein": 30,
+    "carbohydrates": 50,
+    "fats": 20,
+    "unit": "kg",
+    "pricePerUnit": 10
+  },
+  {
+    "id": "2pF123VCEKd234EUQOdIiH_4Z19",
+    "name": "Test Update 111",
+    "description": "Description 123 Description 123 Description 123 Description 123 Description 123",
+    "imageUrl": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711929600&semt=ais",
+    "kcal": 100,
+    "protein": 30,
+    "carbohydrates": 50,
+    "fats": 20,
+    "unit": "kg",
+    "pricePerUnit": 10
+  },
+  {
+    "id": "2pF1123VCEKd234EUQOdIiH_4Z9",
+    "name": "Test 123",
+    "description": "Description 123 Description 123 Description 123 Description 123 Description 123",
+    "imageUrl": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711929600&semt=ais",
+    "kcal": 100,
+    "protein": 30,
+    "carbohydrates": 50,
+    "fats": 20,
+    "unit": "kg",
+    "pricePerUnit": 10
+  },
+  {
+    "id": "21pF123VCEKd234EUQOdIiH_4Z9",
+    "name": "Test 123",
+    "description": "Description 123 Description 123 Description 123 Description 123 Description 123",
+    "imageUrl": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711929600&semt=ais",
+    "kcal": 100,
+    "protein": 30,
+    "carbohydrates": 50,
+    "fats": 20,
+    "unit": "kg",
+    "pricePerUnit": 10
+  },
+  {
+    "id": "fb5xuNRgY7n2GcnX6orzN",
+    "name": "1",
+    "description": "1",
+    "imageUrl": "1",
+    "kcal": 1,
+    "protein": 1,
+    "carbohydrates": 1,
+    "fats": 1,
+    "unit": "1",
+    "pricePerUnit": 1
+  }
+]
